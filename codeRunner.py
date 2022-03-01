@@ -1,0 +1,1 @@
+job.find('span', class_ = "srp-skills").text.replace(' ', '')
